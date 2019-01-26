@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+void main()
+{
+	int a,i,fact=1;
+    scanf("%d",&a);
+    for(i=1;i<=a;i++)
+    {
+        fact=fact*i;
+        }
+    printf("%d ",fact);
+    getch();
+}

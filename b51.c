@@ -1,3 +1,4 @@
+//51 - Given a number N, print all its digits(in same order).
 #include<stdio.h>
 #include<conio.h>
 void main()

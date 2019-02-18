@@ -1,3 +1,4 @@
+//106
 #include<stdio.h>
 #include<conio.h>
 int main()
